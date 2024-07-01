@@ -1,3 +1,3 @@
 # COMM671
-My first repository
+My first repository.
 I'm learning about GitHub.
